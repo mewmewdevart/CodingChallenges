@@ -4,7 +4,7 @@
 
 <p align="center">
 	<b><i>My coding challenge solution(s) , just for fun. </i></b><br>
-  Algorithmic, Data Structures and + challenges and competitions to improve my knowledge.
+  Algorithmic, Data Structures and + challenges competitions to improve my knowledge.
 </p>
 
 <p align="center">
